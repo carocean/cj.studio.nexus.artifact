@@ -28,20 +28,20 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.gateway2</groupId>
+      <artifactId>cj.studio.gateway.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.studio.ecm.corelib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.ecm</groupId>
-      <artifactId>cj.ultimate</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.studio.gateway.stub</artifactId>
+      <artifactId>cj.test.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
@@ -52,14 +52,14 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.netdisk</groupId>
-      <artifactId>cj.lns.chip.sos.cube</artifactId>
+      <groupId>cj.studio.ecm</groupId>
+      <artifactId>cj.ultimate</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.test.stub</artifactId>
+      <groupId>cj.studio.netdisk</groupId>
+      <artifactId>cj.lns.chip.sos.cube</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

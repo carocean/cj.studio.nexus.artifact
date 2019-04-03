@@ -28,14 +28,14 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.ecm</groupId>
-      <artifactId>cj.studio.ecm.corelib</artifactId>
+      <groupId>cj.studio.gateway2</groupId>
+      <artifactId>cj.studio.gateway.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cj.studio.ecm</groupId>
-      <artifactId>cj.ultimate</artifactId>
+      <artifactId>cj.studio.ecm.corelib</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
@@ -46,8 +46,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.studio.gateway.stub</artifactId>
+      <groupId>cj.studio.ecm</groupId>
+      <artifactId>cj.ultimate</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

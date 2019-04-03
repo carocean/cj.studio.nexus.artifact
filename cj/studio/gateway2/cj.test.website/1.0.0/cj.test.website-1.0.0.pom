@@ -22,12 +22,6 @@
   </developers>
   <dependencies>
     <dependency>
-      <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.test.stub</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.8.2</version>
@@ -46,8 +40,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.ecm</groupId>
-      <artifactId>cj.ultimate</artifactId>
+      <groupId>cj.studio.gateway2</groupId>
+      <artifactId>cj.test.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
@@ -58,14 +52,20 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.netdisk</groupId>
-      <artifactId>cj.lns.chip.sos.cube</artifactId>
+      <groupId>cj.studio.gateway2</groupId>
+      <artifactId>cj.studio.orm.mybatis</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.studio.orm.mybatis</artifactId>
+      <groupId>cj.studio.ecm</groupId>
+      <artifactId>cj.ultimate</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>cj.studio.netdisk</groupId>
+      <artifactId>cj.lns.chip.sos.cube</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
