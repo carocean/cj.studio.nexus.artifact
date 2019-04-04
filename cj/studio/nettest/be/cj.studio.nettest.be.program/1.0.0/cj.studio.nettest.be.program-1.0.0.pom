@@ -28,6 +28,12 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.nettest.be</groupId>
+      <artifactId>cj.studio.nettest.be.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.studio.ecm.corelib</artifactId>
       <version>1.0.0</version>
@@ -48,12 +54,6 @@
     <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.ultimate</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.nettest.be</groupId>
-      <artifactId>cj.studio.nettest.be.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

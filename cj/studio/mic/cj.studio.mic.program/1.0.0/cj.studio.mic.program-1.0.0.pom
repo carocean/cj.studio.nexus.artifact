@@ -52,6 +52,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.mic</groupId>
+      <artifactId>cj.studio.mic.ultimate</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.ultimate</artifactId>
       <version>1.0.0</version>

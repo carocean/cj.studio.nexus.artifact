@@ -57,5 +57,11 @@
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>cj.studio.backend.uc</groupId>
+      <artifactId>cj.studio.backend.uc.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>

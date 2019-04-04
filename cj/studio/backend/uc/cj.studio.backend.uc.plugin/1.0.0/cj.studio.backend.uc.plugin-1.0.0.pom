@@ -52,6 +52,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.backend.uc</groupId>
+      <artifactId>cj.studio.backend.uc.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.ultimate</artifactId>
       <version>1.0.0</version>
@@ -61,12 +67,6 @@
       <groupId>io.jsonwebtoken</groupId>
       <artifactId>jjwt</artifactId>
       <version>0.9.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.backend.uc</groupId>
-      <artifactId>cj.studio.backend.uc.stub</artifactId>
-      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

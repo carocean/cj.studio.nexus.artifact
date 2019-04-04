@@ -64,6 +64,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.nettest.jobserver</groupId>
+      <artifactId>cj.studio.nettest.jobserver.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.nettest.be</groupId>
       <artifactId>cj.studio.nettest.be.stub</artifactId>
       <version>1.0.0</version>
@@ -73,12 +79,6 @@
       <groupId>io.jsonwebtoken</groupId>
       <artifactId>jjwt</artifactId>
       <version>0.9.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.nettest.jobserver</groupId>
-      <artifactId>cj.studio.nettest.jobserver.stub</artifactId>
-      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

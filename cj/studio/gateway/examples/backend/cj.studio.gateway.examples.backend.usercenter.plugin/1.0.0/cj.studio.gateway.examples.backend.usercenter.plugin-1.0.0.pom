@@ -40,6 +40,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.gateway.examples.backend</groupId>
+      <artifactId>cj.studio.gateway.examples.backend.usercenter.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.studio.ecm.corelib</artifactId>
       <version>1.0.0</version>
@@ -60,12 +66,6 @@
     <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.ultimate</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.gateway.examples.backend</groupId>
-      <artifactId>cj.studio.gateway.examples.backend.usercenter.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

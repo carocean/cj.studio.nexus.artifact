@@ -34,6 +34,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>cj.studio.nettest.be</groupId>
+      <artifactId>cj.studio.nettest.be.stub</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>cj.studio.ecm</groupId>
       <artifactId>cj.studio.ecm.corelib</artifactId>
       <version>1.0.0</version>
@@ -61,12 +67,6 @@
       <groupId>io.jsonwebtoken</groupId>
       <artifactId>jjwt</artifactId>
       <version>0.9.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.nettest.be</groupId>
-      <artifactId>cj.studio.nettest.be.stub</artifactId>
-      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
