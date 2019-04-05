@@ -23,7 +23,7 @@
   <dependencies>
     <dependency>
       <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.test.stub</artifactId>
+      <artifactId>cj.studio.gateway.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
@@ -47,12 +47,6 @@
     </dependency>
     <dependency>
       <groupId>cj.studio.gateway2</groupId>
-      <artifactId>cj.studio.gateway.stub</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>cj.studio.gateway2</groupId>
       <artifactId>cj.studio.gateway.socket</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
@@ -60,6 +54,12 @@
     <dependency>
       <groupId>cj.studio.netdisk</groupId>
       <artifactId>cj.lns.chip.sos.cube</artifactId>
+      <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>cj.studio.gateway2</groupId>
+      <artifactId>cj.test.stub</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>

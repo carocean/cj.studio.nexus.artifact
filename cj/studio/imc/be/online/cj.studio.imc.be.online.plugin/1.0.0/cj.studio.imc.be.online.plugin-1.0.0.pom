@@ -58,15 +58,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>io.jsonwebtoken</groupId>
-      <artifactId>jjwt</artifactId>
-      <version>0.9.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>cj.studio.imc.be.online</groupId>
       <artifactId>cj.studio.imc.be.online.stub</artifactId>
       <version>1.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.jsonwebtoken</groupId>
+      <artifactId>jjwt</artifactId>
+      <version>0.9.1</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
